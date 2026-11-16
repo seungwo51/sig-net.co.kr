@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.sig-net.co.kr/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-03-1600.webp</image:loc></image:image>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://www.sig-net.co.kr/gangnam-room/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-classic-1280.webp</image:loc></image:image>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://www.sig-net.co.kr/gangnam-hyperpublic/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-02-1280.webp</image:loc></image:image>
@@ -26,15 +26,23 @@
   </url>
   <url>
     <loc>https://www.sig-net.co.kr/gangnam-signet/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-gold-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/og/gangnam-signet.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.sig-net.co.kr/gangnam-jjeomo/</loc>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-grey-960.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/gangnam-jjeomo.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.sig-net.co.kr/gangnam-roombbang/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-01-960.webp</image:loc></image:image>
@@ -42,15 +50,23 @@
   </url>
   <url>
     <loc>https://www.sig-net.co.kr/gangnam-dalto/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-neon-960.webp</image:loc></image:image>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/og/gangnam-dalto.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.sig-net.co.kr/gangnam-dessert/</loc>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-white-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/gangnam-dessert.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.sig-net.co.kr/gangnam-saraitne/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-mirror-960.webp</image:loc></image:image>
@@ -58,10 +74,154 @@
   </url>
   <url>
     <loc>https://www.sig-net.co.kr/gangnam-perfect/</loc>
-    <lastmod>2026-11-15T09:00:00+09:00</lastmod>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-black-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://www.sig-net.co.kr/assets/og/gangnam-perfect.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/en/gangnam-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-02-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/en-gangnam-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/en/gangnam-karaoke/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-neon-960.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/en-gangnam-karaoke.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/en/seoul-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-classic-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/en-seoul-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/en/korea-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-table-setting-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/en-korea-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/ja/gangnam-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-02-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/ja-gangnam-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/ja/gangnam-karaoke/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-neon-960.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/ja-gangnam-karaoke.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/ja/seoul-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-classic-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/ja-seoul-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/ja/korea-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-table-setting-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/ja-korea-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/zh/gangnam-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-party-02-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/zh-gangnam-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/zh/gangnam-karaoke/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/gangnam-karaoke/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/gangnam-karaoke/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-neon-960.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/zh-gangnam-karaoke.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/zh/seoul-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/seoul-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/seoul-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-room-classic-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/zh-seoul-ktv.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sig-net.co.kr/zh/korea-ktv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.sig-net.co.kr/ja/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.sig-net.co.kr/zh/korea-ktv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sig-net.co.kr/en/korea-ktv/"/>
+    <lastmod>2026-11-16T09:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/img/gangnam-karaoke-table-setting-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.sig-net.co.kr/assets/og/zh-korea-ktv.jpg</image:loc></image:image>
   </url>
 </urlset>

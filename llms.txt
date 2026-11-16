@@ -1,15 +1,15 @@
 # 강남 시그넷 (SIGNET)
 
-> 강남 시그넷은 서울 강남구 강남대로 588 렉스호텔 지하에 있는 가라오케·하이퍼블릭입니다. 3호선 신사역 3번 출구에서 걸어서 2분 거리이고, 예약은 병규부장이 010-7243-3101로 직접 받습니다. 이 사이트에는 강남 가라오케·하이퍼블릭 가격과 이용 방법, 시그넷과 같은 번호로 예약받는 업소(달토, 사라있네, 퍼펙트) 안내가 있습니다.
+> 강남 시그넷은 서울 강남구 강남대로 588 렉스호텔 지하에 있는 가라오케·하이퍼블릭입니다. 3호선 신사역 3번 출구에서 걸어서 2분 거리이고, 예약은 병규부장이 010-7243-3101로 직접 받습니다. 이 사이트에는 강남 가라오케·하이퍼블릭 가격과 이용 방법, 시그넷과 같은 번호로 예약받는 업소(달토, 사라있네, 디저트) 안내, 외국인 방문객용 영어·일본어·중국어 페이지가 있습니다.
 
-## 핵심 정보 (2026. 11. 15. 기준)
+## 핵심 정보 (2026. 11. 16. 기준)
 
 - 상호: 시그넷 (SIGNET). ‘시그넷 가라오케’, ‘시그넷 하이퍼블릭’은 같은 곳입니다.
 - 주소: 서울 강남구 강남대로 588 렉스호텔 지하
 - 가까운 역: 3호선 신사역 3번 출구 도보 2분, 7호선 논현역 7번 출구 도보 5분
-- 강남 가라오케·하이퍼블릭 시세: 주대 10만~20만 원, TC 1인 12만~13만 원, 룸비 5만 원. 2명 39만~51만 원 선 (업소와 입실 시간에 따라 다름)
-- 시그넷 가격: 주대 150,000원 (밤 9시 전 입실 시 100,000원), TC 1인 120,000원, 룸비 1실 50,000원
-- 시그넷 인원별 기본 총액: 1명 32만 원, 2명 44만 원, 3명 56만 원, 4명 68만 원 (밤 9시 전 입실 시 각 5만 원 적음)
+- 강남 가라오케·하이퍼블릭 시세: 주대 10만~20만 원, TC 1인 13만 원(연장 14만 원), 룸비 5만 원. 2명 41만~51만 원 선 (업소와 입실 시간에 따라 다름)
+- 시그넷 가격: 주대 150,000원 (밤 9시 전 입실 시 100,000원), TC 1인 130,000원(연장 140,000원), 룸비 1실 50,000원
+- 시그넷 인원별 기본 총액: 1명 33만 원, 2명 46만 원, 3명 59만 원, 4명 72만 원 (밤 9시 전 입실 시 각 5만 원 적음)
 - 추가 주류, 식사·안주 메뉴, 시간 연장은 기본 금액과 별도입니다.
 - 시설: 룸 42개, 식사·안주 36종, 커피·차 20종
 - 영업시간: 요일과 시기에 따라 달라 방문 당일 전화로 확인해야 합니다.
@@ -20,24 +20,43 @@
 - 전화·문자: 010-7243-3101 (병규부장)
 - 카카오톡: https://open.kakao.com/me/Pbk428
 - 텔레그램: https://t.me/pbk428
+- WhatsApp: https://wa.me/821072433101
+- WeChat ID: Pbk428
 - 예약할 때 알려 줄 것: 방문 날짜, 도착 시각, 인원
 
 ## 페이지
 
-- [강남 가라오케 가격·이용 방법](https://www.sig-net.co.kr/): 강남 가라오케 가격은 주대에 TC와 룸비가 붙습니다. 2명이면 39만~51만 원 선입니다.
+- [강남 가라오케 가격·이용 방법](https://www.sig-net.co.kr/): 강남 가라오케 가격은 주대에 TC와 룸비가 붙습니다. 2명이면 41만~51만 원 선입니다.
 - [강남 룸 가격·예약](https://www.sig-net.co.kr/gangnam-room/): 강남 룸은 방을 따로 쓰는 술집을 통틀어 부르는 말입니다. 가라오케, 하이퍼블릭, 쩜오가 여기 들어갑니다.
 - [강남 하이퍼블릭 가격](https://www.sig-net.co.kr/gangnam-hyperpublic/): 하이퍼블릭은 퍼블릭보다 방과 응대에 돈을 더 들인 룸 술집입니다. 줄여서 하퍼라고 부릅니다.
 - [강남 시그넷 가격·위치](https://www.sig-net.co.kr/gangnam-signet/): 강남 시그넷은 강남대로 588 렉스호텔 지하에 있습니다. 신사역 3번 출구에서 걸어서 2분입니다.
+- [강남 쩜오 가격·TC](https://www.sig-net.co.kr/gangnam-jjeomo/): 강남 쩜오 가격은 2명이 2시간 있을 때 153만 원 선입니다. 주대 50만 원, TC 1인 44만 원, 룸티 10만 원, 웨이터 5만 원을 더한 금액입니다.
 - [강남 룸빵 뜻·비용](https://www.sig-net.co.kr/gangnam-roombbang/): 룸빵은 방이 있는 술집에 가서 마시는 걸 이르는 말입니다. 가라오케나 하이퍼블릭에 가는 걸 통틀어 그렇게 부릅니다.
 - [강남 달토 예약·위치](https://www.sig-net.co.kr/gangnam-dalto/): 강남 달토는 역삼동 삼정호텔 지하에 있는 하이퍼블릭입니다.
+- [강남 디저트 가라오케 예약·위치](https://www.sig-net.co.kr/gangnam-dessert/): 강남 디저트 가라오케는 논현동 엘리에나호텔 지하에 있는 하이퍼블릭입니다. 예전 이름은 퍼펙트입니다.
 - [강남 사라있네 예약·위치](https://www.sig-net.co.kr/gangnam-saraitne/): 강남 사라있네는 대치동에 있는 하이퍼블릭입니다. 삼성역, 선릉역 쪽에서 가깝습니다.
-- [강남 퍼펙트 예약·위치](https://www.sig-net.co.kr/gangnam-perfect/): 강남 퍼펙트는 논현동 엘리에나호텔 지하에 있는 하이퍼블릭입니다.
+- [강남 퍼펙트 예약·위치](https://www.sig-net.co.kr/gangnam-perfect/): 강남 퍼펙트는 논현동 엘리에나호텔 지하에 있는 하이퍼블릭입니다. 지금은 디저트라는 이름으로 영업합니다.
+
+## Pages for international visitors (English · 日本語 · 中文)
+
+- [Gangnam KTV prices](https://www.sig-net.co.kr/en/gangnam-ktv/): Gangnam KTV at Signet costs ₩460,000 for two guests: drink set ₩150,000, TC ₩130,000 per guest and room fee ₩50,000.
+- [Gangnam karaoke guide](https://www.sig-net.co.kr/en/gangnam-karaoke/): Gangnam karaoke can mean a noraebang, where you pay by the hour to sing, or a room karaoke (KTV) with drinks and a hostess.
+- [Seoul KTV by area](https://www.sig-net.co.kr/en/seoul-ktv/): Seoul KTV venues are concentrated in Gangnam, mainly Sinsa, Nonhyeon, Yeoksam and Daechi.
+- [Korea KTV for first-timers](https://www.sig-net.co.kr/en/korea-ktv/): A Korea KTV bill is the drink set plus TC for each guest plus the room fee. At Signet in Gangnam that is ₩460,000 for two.
+- [江南KTVの料金](https://www.sig-net.co.kr/ja/gangnam-ktv/): 江南KTVのシグネットは2名で46万ウォンです。基本セット15万ウォン、TCお一人13万ウォン、ルーム代5万ウォンの合計です。
+- [江南カラオケガイド](https://www.sig-net.co.kr/ja/gangnam-karaoke/): 江南のカラオケには、時間料金で歌うノレバンと、お酒と女性スタッフが付くルームカラオケ（KTV）の2種類があります。
+- [ソウルKTV エリア案内](https://www.sig-net.co.kr/ja/seoul-ktv/): ソウルのKTVは江南、なかでも新沙・論峴・駅三・大峙に集まっています。
+- [韓国KTV はじめての方へ](https://www.sig-net.co.kr/ja/korea-ktv/): 韓国KTVのお会計は、基本セット＋人数分のTC＋ルーム代です。江南のシグネットは2名で46万ウォンです。
+- [江南KTV价格](https://www.sig-net.co.kr/zh/gangnam-ktv/): 江南KTV Signet两位46万韩元：基本酒水套餐15万韩元，TC每位13万韩元，包房费5万韩元。
+- [江南卡拉OK指南](https://www.sig-net.co.kr/zh/gangnam-karaoke/): 江南的卡拉OK分两种：按小时收费唱歌的练歌房，以及带酒水和女公关的包房卡拉OK（KTV）。
+- [首尔KTV区域指南](https://www.sig-net.co.kr/zh/seoul-ktv/): 首尔的KTV集中在江南，主要是新沙、论岘、驿三、大峙。
+- [韩国KTV新手指南](https://www.sig-net.co.kr/zh/korea-ktv/): 韩国KTV的账单是酒水套餐加按人数的TC加包房费。江南Signet两位46万韩元。
 
 ## 같은 번호로 예약받는 업소
 
 - 달토: 서울 강남구 역삼동 삼정호텔 지하
 - 사라있네: 서울 강남구 대치동
-- 퍼펙트: 서울 강남구 논현동 엘리에나호텔 지하
+- 디저트 (예전 퍼펙트): 서울 강남구 논현로 645 엘리에나호텔 지하
 - 세 곳의 금액은 날짜와 입실 시간대에 따라 달라 예약 시 총액으로 안내합니다.
 
 ## 전체 본문
